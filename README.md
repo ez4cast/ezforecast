@@ -27,3 +27,29 @@ A python library for time-series forecasting with easy manipulation of modern al
 - [ ] `ODELSTM`: Ordinary differential equations with LSTM.
 - [ ] `ESRNN`: Exponential smoothing - RNN. 
 - [ ] `ES`: Simple exponential smoothing.
+- [ ] `MTGNN`: Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks.
+- [ ] `GNNLSTM`: GNN - LSTM.
+- [ ] `Z-GCNET`: Time Zigzags at Graph Convolutional Networks for Time Series Forecasting
+- [ ] `LiquidTimeconstantNetwork`: Liquid Time-constant Networks.
+- [ ] `GRUODEBayes`: GRU-ODE-Bayes.
+
+### Loss
+- [ ] ...
+
+### Metric
+- [ ] ...
+
+### Sampling
+- [ ] ...
+
+### Trainer
+- [ ] ...
+
+### Optimizer
+- [ ] ....
+
+### Deployment
+- [ ] `Loader`: Load saved pipeline.
+- [ ] `Predictor`: Predictor instance for a pipeline.
+- [ ] `Server`: REST API server.
+- [ ] `Evaluator`: API benchmarking helpers.
