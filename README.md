@@ -11,12 +11,15 @@ A python library for time-series forecasting with easy manipulation of modern al
 - [ ] `read_snowflake`: Loading time-series from Snowflake.
 
 #### Data Processor
-- [ ] `Fourier`: Fourier transformation.
-- [ ] `Wavelet`: Wavelet transformation.
-- [ ] `EMD`: EMD transformation.
-- [ ] `EEMD`: EEMD transformation.
-- [ ] `PAA`: PAA transformation.
-- [ ] `SAX`: SAX transformation.
+- **Transformation**:
+  - [ ] `Fourier`: Fourier transformation.
+  - [ ] `Wavelet`: Wavelet transformation.
+  - [ ] `EMD`: EMD transformation.
+  - [ ] `EEMD`: EEMD transformation.
+  - [ ] `PAA`: PAA transformation.
+  - [ ] `SAX`: SAX transformation.
+- **Sampler**:
+  - [ ] ...
 
 #### Model
 - [ ] `Arima`: Auto-Regressive Integrated Moving Average.
@@ -37,9 +40,6 @@ A python library for time-series forecasting with easy manipulation of modern al
 - [ ] ...
 
 #### Metric
-- [ ] ...
-
-#### Sampling
 - [ ] ...
 
 #### Trainer
