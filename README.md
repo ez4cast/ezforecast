@@ -2,7 +2,7 @@
 
 A python library for time-series forecasting with easy manipulation of modern algorithms and techniques, this work focus on production-ready quality.
 
-### Data Loader
+#### Data Loader
 - [ ] `read_csv`: Loading time-series from csv file.
 - [ ] `read_json`: Loading time-series from json file with pre-define schema.
 - [ ] `read_rdbms`: Loading time-series from relational database management sytem with pre-define connection and schema.
@@ -10,7 +10,7 @@ A python library for time-series forecasting with easy manipulation of modern al
 - [ ] `read_readshift`: Loading time-series from Amazon RedShift.
 - [ ] `read_snowflake`: Loading time-series from Snowflake.
 
-### Data Processor
+#### Data Processor
 - [ ] `Fourier`: Fourier transformation.
 - [ ] `Wavelet`: Wavelet transformation.
 - [ ] `EMD`: EMD transformation.
@@ -18,7 +18,7 @@ A python library for time-series forecasting with easy manipulation of modern al
 - [ ] `PAA`: PAA transformation.
 - [ ] `SAX`: SAX transformation.
 
-### Model
+#### Model
 - [ ] `Arima`: Auto-Regressive Integrated Moving Average.
 - [ ] `LSTM`: Long Short Term Memory.
 - [ ] `NBeats`: Neural basis expansion analysis for interpretable time series forecasting.
@@ -33,22 +33,22 @@ A python library for time-series forecasting with easy manipulation of modern al
 - [ ] `LiquidTimeconstantNetwork`: Liquid Time-constant Networks.
 - [ ] `GRUODEBayes`: GRU-ODE-Bayes.
 
-### Loss
+#### Loss
 - [ ] ...
 
-### Metric
+#### Metric
 - [ ] ...
 
-### Sampling
+#### Sampling
 - [ ] ...
 
-### Trainer
+#### Trainer
 - [ ] ...
 
-### Optimizer
+#### Optimizer
 - [ ] ....
 
-### Deployment
+#### Deployment
 - [ ] `Loader`: Load saved pipeline.
 - [ ] `Predictor`: Predictor instance for a pipeline.
 - [ ] `Server`: REST API server.
