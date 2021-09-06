@@ -1,6 +1,7 @@
 ## eZforecast
 
 A python library for time-series forecasting with easy manipulation of modern algorithms and techniques, this work focus on production-ready quality.
+https://ezforecast.readthedocs.io/
 
 #### Data Loader
 - [ ] `read_csv`: Loading time-series from csv file.
